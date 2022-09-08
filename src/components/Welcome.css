@@ -1,0 +1,18 @@
+.container{
+    width: 35%;
+    margin: 5% auto;
+}
+.main_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input_ele{
+    width: 400px;
+    /* margin: auto; */
+}
+p{
+    color: rgb(107, 115, 120);
+    font-weight: 50%;
+    margin-left: 74px;
+}

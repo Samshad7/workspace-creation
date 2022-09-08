@@ -1,0 +1,29 @@
+.select_main_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn_select{
+    border: 1px solid rgb(223, 210, 210);
+}
+button.btn_select {
+    background-color: #fff;
+    width: 200px;
+    text-align: left;
+    overflow: hidden;
+    height: 200px;
+    margin: 20px;
+    border-radius: 7px;
+    box-sizing: none;
+}
+button.btn_select p{
+    font-size: 15px;
+    margin-left: -30px;
+}
+button.btn_select h4{
+    margin-left: -30px;
+}
+.active{
+    border: 3px solid rgb(13, 94, 138);
+}
